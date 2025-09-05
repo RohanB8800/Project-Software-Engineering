@@ -50,7 +50,7 @@ function AppContent() {
         </Routes>
         <Toaster />
         <footer className="text-center py-4 text-sm text-gray-500">
-          This Website is developed by Bhavya Prakash
+          This Website is developed by Rohan Behera
         </footer>
       </div>
     </>
